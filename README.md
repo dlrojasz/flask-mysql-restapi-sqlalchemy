@@ -2,8 +2,8 @@
   Rest API
 
 # Paquetes que se deben instalar en el entorno virtual:
-  *flask
-  *flask-sqlalchemy
-  *flask-marshmallow
-  *marshmallow-sqlalchemy
-  *pymysql
+  * flask
+  * flask-sqlalchemy
+  * flask-marshmallow
+  * marshmallow-sqlalchemy
+  * pymysql
